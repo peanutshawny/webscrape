@@ -1,0 +1,1 @@
+title, date, reviews, discount, original price, discounted price
